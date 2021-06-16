@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NORTUA_ImageResizeVB", "NORTUA_ImageResizeVB\NORTUA_ImageResizeVB.vbproj", "{FCE6B3F2-680D-4D27-A838-D720FF9C7416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE6B3F2-680D-4D27-A838-D720FF9C7416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE6B3F2-680D-4D27-A838-D720FF9C7416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE6B3F2-680D-4D27-A838-D720FF9C7416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE6B3F2-680D-4D27-A838-D720FF9C7416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99DFF35A-227B-49E9-A0D0-E5E91463E5AD}
+	EndGlobalSection
+EndGlobal
