@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NORTUA_ImageResizeVB": {
+      "commandName": "Project",
+      "commandLineArgs": "/ImgSource=E:\\Muntatges\\TOT FORMATGE\\Imatges\\Original\\0002 Saint Sauveur.png /ImgDest=E:\\Muntatges\\TOT FORMATGE\\Imatges\\Original\\300x300\\0002 Saint Sauveur.gif /Height=300 /Width=300"
+    }
+  }
+}
